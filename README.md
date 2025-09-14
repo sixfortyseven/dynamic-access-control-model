@@ -136,15 +136,6 @@ graph TD
 - **Reduced Administrative Overhead**: Self-managing security policies
 - **Improved Audit Trail**: Comprehensive access logging
 
----
-
-## 👥 Team Contributions
-
-This project was completed as part of a collaborative effort in our Data Analytics Consulting course, with focus on:
-- Security architecture design
-- Machine learning implementation
-- IoT system integration
-- Industry-specific customization
 
 ---
 
@@ -165,11 +156,3 @@ This project was completed as part of a collaborative effort in our Data Analyti
 ## 📄 License
 
 This project is part of academic coursework and is available for educational purposes.
-
-## 🤝 Connect
-
-For questions about this project or collaboration opportunities, please feel free to reach out through the repository issues or contact information provided in the profile.
-
----
-
-*This project demonstrates the practical application of data analytics and machine learning in solving real-world IoT security challenges.*
