@@ -2,11 +2,6 @@
 
 > **Based on User Access Behavior in IoT Environment**
 
-[![Project Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/yourusername/dynamic-access-control)
-[![Industry](https://img.shields.io/badge/Industry-Semiconductor-blue)](https://github.com/yourusername/dynamic-access-control)
-[![Team](https://img.shields.io/badge/Team-Group%209-orange)](https://github.com/yourusername/dynamic-access-control)
-[![Year](https://img.shields.io/badge/Year-2024-lightgrey)](https://github.com/yourusername/dynamic-access-control)
-
 ## 📋 Project Overview
 
 This project presents a comprehensive **Dynamic Access Control Model** designed to address critical security challenges in IoT environments, specifically targeting the semiconductor industry. Our solution combines machine learning algorithms with behavioral analysis to prevent unauthorized access and data leakage.
