@@ -1,4 +1,4 @@
-# Dynamic Access Control Model
+# Predictive Analytics for Security System Optimization
 
 > **Based on User Access Behavior in IoT Environment**
 
@@ -6,8 +6,7 @@
 
 This project presents a comprehensive **Dynamic Access Control Model** designed to address critical security challenges in IoT environments, specifically targeting the semiconductor industry. Our solution combines machine learning algorithms with behavioral analysis to prevent unauthorized access and data leakage.
 
-**Course:** Data Analytics Consulting  
-**Team:** Group 9  
+**Course:** ISE534 - Data Analytics Consulting  
 **Focus Industry:** Semiconductor Manufacturing
 
 ---
